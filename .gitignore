@@ -1,0 +1,63 @@
+# Python specific
+__pycache__/
+*.pyc
+
+# VS Code specific
+.vscode/
+
+# Windows system files
+AppData/
+Cookies/
+Documents/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+Saved Games/
+Searches/
+Videos/
+
+# Windows application specific
+*.log
+*.tmp
+*.blf
+*.regtrans-ms
+npm-cache/
+VirtualBox VMs/
+OneDrive/
+Cisco Packet Tracer 8.2.1/
+Microsoft/
+GoPro/
+
+# Other specific folders and files
+.Protege/
+.RapidMiner/
+.VirtualBox/
+.anaconda/
+.bash_history
+.conda/
+.condarc
+.continuum/
+.dbclient/
+.gitconfig
+.idlerc/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.packettracer/
+.vscode-R/
+anaconda3/
